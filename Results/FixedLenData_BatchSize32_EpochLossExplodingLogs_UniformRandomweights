@@ -1,0 +1,53 @@
+jayaram@jayaram-Inspiron-3521:~/LSTM_XOR$ mpiexec -n 5 python3 lstm_xor.py
+100000
+100000
+80000
+80000
+20000
+20000
+100000
+100000
+80000
+80000
+20000
+20000
+100000
+100000
+80000
+80000
+20000
+20000
+100000
+100000
+80000
+80000
+20000
+20000
+100000
+100000
+80000
+80000
+20000
+20000
+Training loss for Epoch:0 is 1176
+Training loss for Epoch:1 is 1294
+Training loss for Epoch:2 is 1177
+Training loss for Epoch:3 is 1146
+Training loss for Epoch:4 is 1132
+Training loss for Epoch:5 is 1125
+Training loss for Epoch:6 is 1112
+Training loss for Epoch:7 is 1097
+Training loss for Epoch:8 is 1094
+Training loss for Epoch:9 is 1092
+Training loss for Epoch:10 is 1077
+Training loss for Epoch:11 is 1188
+Training loss for Epoch:12 is 2376
+Training loss for Epoch:13 is 2996
+Training loss for Epoch:14 is 2333
+Training loss for Epoch:15 is 4659
+Training loss for Epoch:16 is 6352
+Training loss for Epoch:17 is 6751
+Training loss for Epoch:18 is 6578
+Training loss for Epoch:19 is 7034
+Training loss for Epoch:20 is 8843
+
